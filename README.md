@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed! 👋 
 
-### AI Engineer | Published Researcher | Agentic Systems Specialist
+### AI Engineer | Published Researcher | LLM Specialist
 
 I am an AI Engineer at **Zinki AI** focused on deploying production-grade NLP and Agentic systems. I specialize in the "Modern AI Stack"—moving beyond simple RAG into **stateful agentic workflows**, **DSPy optimization**, and **Low-resource NLP (Arabic/Tunisian Dialect)**.
 
